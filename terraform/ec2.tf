@@ -1,5 +1,5 @@
 data "aws_ami" "os_image" {
-  owners = ["099720109477"]
+  owners = ["069835411996"]
   most_recent = true
   filter {
     name   = "state"
